@@ -1,15 +1,28 @@
 body {
     font-family: Arial, sans-serif;
     color: aliceblue;
+    font-size: 20px;
     background-color: #000000;
-    margin: 0;
+    margin: 80px;
     padding: 20px;
 }
+
 nav {
     border: red solid 1px;
     border-radius: 25px;
     background-color: #010327;
     display: flex;
     justify-content: center;
-    margin-bottom: 20px;
+    margin: 20px;
+    margin-bottom: 50px;
+}
+
+#clock {
+    border: red solid 1px;
+    border-radius: 25px;
+    background-color: #010327;
+    text-align: center;
+    margin-top: 20px;
+    margin: 20px;
+    height: 100px;
 }
