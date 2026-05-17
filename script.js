@@ -7,6 +7,6 @@ function updateClock() {
 
     const Time = `${hours}:${minutes}:${seconds}`
     clock.innerText = Time;
-    setInterval(updateClock, 1000);
 }
 updateClock();
+setInterval(updateClock, 1000);
