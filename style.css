@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    color: aliceblue;
+    background-color: #000000;
+    margin: 0;
+    padding: 20px;
+}
+nav {
+    border: red solid 1px;
+    border-radius: 25px;
+    background-color: #010327;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
