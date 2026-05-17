@@ -21,8 +21,10 @@ nav {
     border: red solid 1px;
     border-radius: 25px;
     background-color: #010327;
+    color: red;
+    font-size: 3rem;
     text-align: center;
     margin-top: 20px;
     margin: 20px;
-    height: 100px;
+    height: auto;
 }
